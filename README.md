@@ -23,10 +23,10 @@ A class initilialising the 12 zodiac signs using a switch-case algorithm to dete
 | Aquarius      | January 20 - February 18  |
 | Pisces        | February 19 - March 20    |
 
-*Fire Signs:* Aries, Leo, Sagittarius.
-*Earth Signs:* Taurus, Virgo, Capricorn.
-*Air Signs:* Gemini, Libra, Aquarius.
-*Water Signs:* Cancer, Scorpio, Pisces.
+- *Fire Signs:* Aries, Leo, Sagittarius
+- *Earth Signs:* Taurus, Virgo, Capricorn
+- *Air Signs:* Gemini, Libra, Aquarius
+- *Water Signs:* Cancer, Scorpio, Pisces
 
 ## Chinese Zodiac
 
